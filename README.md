@@ -1,8 +1,9 @@
-Real project with NextJS and Strapi
+NextJS and Strapi
 
 Backend => Strapi
 Frontend => NextJS
 CSS => SCSS
 
-Strapi: http://localhost:1337
+Maybe this project mobile view can be bad.
 
+Project Demo is here =>> https://blog-strapi.gokhansucsuz.tech
